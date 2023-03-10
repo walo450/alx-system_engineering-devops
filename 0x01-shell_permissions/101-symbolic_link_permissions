@@ -1,2 +1,2 @@
 #!/bash/bin
-chmod vincent:staff
+chmod vincent:staff *
