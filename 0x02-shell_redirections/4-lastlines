@@ -1,0 +1,2 @@
+#!/bi/bash
+tail /etc/passwd
